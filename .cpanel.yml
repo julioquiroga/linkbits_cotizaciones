@@ -6,7 +6,9 @@ deployment:
     #- chmod 755 ~/public_html/linkbits_cotizaciones
 
     - export DEPLOYPATH=~/public_html/linkbits_cotizaciones/
-    - chmod 755 ~/public_html/linkbits_cotizaciones
+    - /bin/chmod 755 ~/public_html/linkbits_cotizaciones
+    - /bin/mkdir ~/public_html/linkbits_cotizaciones2
+    - /bin/chmod 755 ~/public_html/linkbits_cotizaciones2
     #- /bin/cp index.html $DEPLOYPATH
     #- /bin/cp page2.html $DEPLOYPATH
     #- /bin/cp page3.html $DEPLOYPATH
