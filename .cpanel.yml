@@ -1,13 +1,15 @@
 ---
 deployment:
   tasks:
-    - chmod 755 ~/repositories
-    - chmod 755 ~/repositories/linkbits_cotizaciones
-    - chmod 755 ~/public_html
+    #- chmod 755 ~/repositories
+    #- chmod 755 ~/repositories/linkbits_cotizaciones
+    #- chmod 755 ~/public_html/linkbits_cotizaciones
 
     - export DEPLOYPATH=~/public_html/linkbits_cotizaciones/
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp page2.html $DEPLOYPATH
-    - /bin/cp page3.html $DEPLOYPATH
-    - /bin/cp page4.html $DEPLOYPATH
-    - /bin/cp page5.html $DEPLOYPATH
+    - chmod 755 ~/public_html/linkbits_cotizaciones
+    #- /bin/cp index.html $DEPLOYPATH
+    #- /bin/cp page2.html $DEPLOYPATH
+    #- /bin/cp page3.html $DEPLOYPATH
+    #- /bin/cp page4.html $DEPLOYPATH
+    #- /bin/cp page5.html $DEPLOYPATH
+    - /bin/cp -r -u ~/repositories/linkbits_cotizaciones $DEPLOYPATH
