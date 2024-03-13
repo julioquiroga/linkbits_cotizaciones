@@ -9,3 +9,7 @@ deployment:
     - /bin/cp -r -u ~/repositories/linkbits_cotizaciones/ $DEPLOYPATH
     - /bin/chmod 755 ~/public_html/linkbits_cotizaciones
  
+    #- /bin/chmod 755 -R ~/public_html/linkbits_cotizaciones
+
+
+    #- /bin/ln -s /home3/creat243/public_html/elements/img /home3/creat243/public_html/sisve
