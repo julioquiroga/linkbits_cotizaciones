@@ -8,3 +8,11 @@ deployment:
     #- /bin/cp index.html $DEPLOYPATH
     - /bin/cp -r -u ~/repositories/linkbits_cotizaciones_dev/ $DEPLOYPATH
     - /bin/chmod 755 ~/public_html/linkbits_cotizaciones_dev
+
+    - /bin/ln -s  ~/public_html/sisve_produccion/extensiones ~/public_html/sisve_produccion_dev/extensiones
+    - /bin/ln -s  ~/public_html/sisve_produccion/vistas/img ~/public_html/sisve_produccion_dev/vistas/img
+
+    - /bin/ln -s  ~/public_html/sisve/extensiones ~/public_html/sisve_xampp/extensiones
+    - /bin/ln -s  ~/public_html/sisve/vistas/img ~/public_html/sisve_xampp/vistas/img    
+
+    #ls -l ~/public_html/sisve_xampp/extensiones

@@ -1,0 +1,53 @@
+[33mcommit 7e693e0722fe99fe2d954e3a254e90ed285ab94f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Mon Mar 11 17:42:07 2024 -0600
+
+    update index
+
+[33mcommit e8a91b4fdbc7a3c92e97d769e374eaaa49beb7b4[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Mon Mar 11 17:32:55 2024 -0600
+
+    update index 1.1
+
+[33mcommit d1dd2bc600a22da8766d743dd451140d26c29e0e[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Mon Mar 11 17:21:53 2024 -0600
+
+    update index
+
+[33mcommit fc8b05510ab928407153872553f87eba8b3980a6[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Mon Mar 11 17:18:53 2024 -0600
+
+    change index
+
+[33mcommit bd4d3e70908c0acf6536865a4bcce75c880d2424[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Mon Mar 11 17:00:25 2024 -0600
+
+    add cpanel.yml
+
+[33mcommit d28e1a1f947397e52fbedf4bbd7e3e338c543174[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Mon Mar 11 16:57:19 2024 -0600
+
+    set rama dev
+
+[33mcommit 3ba47192a828dd850fae6d09383a8757ca187891[m[33m ([m[1;31morigin/testing[m[33m, [m[1;31morigin/newFeature_Ticket002[m[33m, [m[1;31morigin/bug_order_001[m[33m)[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Thu Mar 7 12:42:45 2024 -0600
+
+    pag3
+
+[33mcommit 04f31981975e255eaf09e818d438a023f63ed874[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Thu Mar 7 12:40:58 2024 -0600
+
+    new pag2
+
+[33mcommit 5d9d43a877ec31e72136016f679a9ce7fb9f55b1[m
+Author: [1;31mJulio Quiroga[m <julioquiroga@hotmail.com>
+Date:   Wed Mar 6 17:39:07 2024 -0600
+
+    commit init
